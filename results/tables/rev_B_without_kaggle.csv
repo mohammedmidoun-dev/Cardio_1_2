@@ -1,0 +1,7 @@
+analysis,subset,value,within,transferred
+transfer penalty,all cohorts,0.0523,0.6964,0.6441
+transfer penalty,without Kaggle,0.0184,0.6721,0.6536
+best algo − logistic regression (mean),all cohorts,0.0037,0.0102,
+AUROC range across algorithms (mean),all cohorts,0.0447,,
+best algo − logistic regression (mean),without Kaggle,0.0021,0.0049,
+AUROC range across algorithms (mean),without Kaggle,0.0501,,

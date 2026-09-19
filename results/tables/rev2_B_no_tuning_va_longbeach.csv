@@ -1,0 +1,12 @@
+cohort,algo,auroc,delta_vs_logreg,ci_low,ci_high
+va_longbeach,logreg,0.6364,0.0,,
+va_longbeach,nb,0.6185,-0.0179,,
+va_longbeach,dtree,0.5517,-0.0847,,
+va_longbeach,knn,0.5839,-0.0525,,
+va_longbeach,svm,0.4714,-0.1649,,
+va_longbeach,rf,0.5658,-0.0706,,
+va_longbeach,extra,0.5448,-0.0915,,
+va_longbeach,hgb,0.5703,-0.0661,,
+va_longbeach,xgb,0.5851,-0.0513,,
+va_longbeach,lgbm,0.5717,-0.0647,,
+va_longbeach,BEST(nb) vs logreg,,-0.0179,-0.063,0.0298

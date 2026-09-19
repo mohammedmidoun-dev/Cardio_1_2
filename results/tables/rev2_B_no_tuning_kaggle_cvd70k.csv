@@ -1,0 +1,12 @@
+cohort,algo,auroc,delta_vs_logreg,ci_low,ci_high
+kaggle_cvd70k,logreg,0.7899,0.0,,
+kaggle_cvd70k,nb,0.7771,-0.0128,,
+kaggle_cvd70k,dtree,0.6332,-0.1568,,
+kaggle_cvd70k,knn,0.742,-0.0479,,
+kaggle_cvd70k,svm,0.7859,-0.004,,
+kaggle_cvd70k,rf,0.7601,-0.0298,,
+kaggle_cvd70k,extra,0.7466,-0.0433,,
+kaggle_cvd70k,hgb,0.7996,0.0096,,
+kaggle_cvd70k,xgb,0.7936,0.0037,,
+kaggle_cvd70k,lgbm,0.799,0.0091,,
+kaggle_cvd70k,BEST(hgb) vs logreg,,0.0096,0.0085,0.0109

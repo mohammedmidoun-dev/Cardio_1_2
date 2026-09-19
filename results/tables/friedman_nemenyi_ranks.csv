@@ -1,0 +1,11 @@
+algo,0
+catboost,2.75
+xgb,3.5
+lgbm,3.75
+rf,4.0
+svm,4.5
+logreg,5.25
+gb,6.0
+nb,7.75
+knn,8.5
+dtree,9.0

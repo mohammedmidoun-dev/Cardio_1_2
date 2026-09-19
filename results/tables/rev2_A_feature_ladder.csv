@@ -1,0 +1,10 @@
+cohort,step,n_features,features,auroc_mean_prediction,auroc_best_model,best_model,auroc_logreg
+cleveland,1. common five,5,age|sex|sbp|chol_mgdl|fbs,0.7032,0.7197,logreg,0.7197
+cleveland,2. + clinical assessment,7,age|sex|sbp|chol_mgdl|fbs|cp|restecg,0.8387,0.8397,rf,0.8324
+cleveland,3. + exercise test,10,age|sex|sbp|chol_mgdl|fbs|cp|restecg|thalach|exang|oldpeak,0.8718,0.8713,logreg,0.8713
+hungarian,1. common five,5,age|sex|sbp|chol_mgdl|fbs,0.6822,0.7113,logreg,0.7113
+hungarian,2. + clinical assessment,7,age|sex|sbp|chol_mgdl|fbs|cp|restecg,0.8134,0.8285,logreg,0.8285
+hungarian,3. + exercise test,10,age|sex|sbp|chol_mgdl|fbs|cp|restecg|thalach|exang|oldpeak,0.8867,0.8873,nb,0.885
+va_longbeach,1. common five,5,age|sex|sbp|chol_mgdl|fbs,0.6265,0.6225,logreg,0.6225
+va_longbeach,2. + clinical assessment,7,age|sex|sbp|chol_mgdl|fbs|cp|restecg,0.6751,0.7036,logreg,0.7036
+va_longbeach,3. + exercise test,10,age|sex|sbp|chol_mgdl|fbs|cp|restecg|thalach|exang|oldpeak,0.6901,0.7006,svm,0.7005
